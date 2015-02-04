@@ -167,9 +167,8 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 80px;
 	font-family: Oswald;
 }
-#bloc-7 p{
-	font-family: 'Droid Serif';
-	font-size: 14px;
+#bloc-7 h3{
+	font-family: Droid Sans;
 }
 #bloc-8 h1{
 	font-family: Oswald;
@@ -197,16 +196,16 @@ a:hover{text-decoration: none; cursor:pointer;}
 	background-image:url("img/02800_thefog_1280x800.jpg");
 }
 .bg-02800-thefog-1280x800{
-	background-image:url('img/02800_thefog_1280x800.jpg');
+	background-image:url("img/02800_thefog_1280x800.jpg");
 }
 .bg-dark4e769802{
-	background-image:url('img/dark4e769802.jpg');
+	background-image:url("img/dark4e769802.jpg");
 }
 .bg-bluef9c22c58{
-	background-image:url('img/bluef9c22c58.jpg');
+	background-image:url("img/bluef9c22c58.jpg");
 }
 .bg-bluephoto-1413913619092-816734eed3a7{
-	background-image:url('img/bluephoto-1413913619092-816734eed3a7.jpg');
+	background-image:url("img/bluephoto-1413913619092-816734eed3a7.jpg");
 }
 
 /* NavBar */
